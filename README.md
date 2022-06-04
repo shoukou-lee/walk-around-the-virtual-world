@@ -1,6 +1,6 @@
 This repository contains source codes of the actual implementation described in the paper,
 
-S.Lee, H.Jung, and C.E.Rhee, "Data Orchestration for Accelerating GPU-based Light Field Rendering Aiming at a Wide Virtual Space", *IEEE Trans. Circuits Syst. Video Technol.*, Oct. 2021.
+<a href=https://ieeexplore.ieee.org/document/9578988>S. Lee, H. Jung and C. E. Rhee, "Data Orchestration for Accelerating GPU-Based Light Field Rendering Aiming at a Wide Virtual Space," in _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 32, no. 6, pp. 3575-3586, June 2022.</a>
 
 ----
 

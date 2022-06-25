@@ -4,7 +4,7 @@ This repository contains source codes of the actual implementation described in 
 
 ----
 
-you can watch our <a href=https://youtu.be/lrIsEJbiGNg> demo video</a>.
+You can watch our <a href=https://youtu.be/lrIsEJbiGNg> demo video</a>.
 
 Project Environment : C++ 17, MSVC v142.
 

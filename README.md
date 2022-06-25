@@ -4,10 +4,7 @@ This repository contains source codes of the actual implementation described in 
 
 ----
 
-This is a demo version and may contain bugs. Light field data is required to run this program, but it is 
-not included here. We will provide it ASAP.
-
-Also, you can watch our <a href=https://youtu.be/lrIsEJbiGNg> demo video</a>.
+you can watch our <a href=https://youtu.be/lrIsEJbiGNg> demo video</a>.
 
 Project Environment : C++ 17, MSVC v142.
 
